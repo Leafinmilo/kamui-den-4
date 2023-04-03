@@ -26,13 +26,13 @@ You can ignore comments with ♫, but sometimes it's nice to read manga with mus
 |22 | One example of Originality, you can see Sega's Yakuza Series (`Ryuu ga Gotoku`) where characters learn Original skills through Revelations. |
 |27 | Kamui actually attempted the unpolished version of this skill once on Ikkaku. |
 |27 | Atena is able to say this because she has watched Kamui train with Ikkaku at Tetsuzan's house. |
-|28 | [Ryuunoshin's Family Sword]({% post_url 2023-03-30-ryuunoshin-sword %}) |
+|28 | [Ryuunoshin's Family Sword]({{site.baseurl}}{% post_url 2023-03-30-ryuunoshin-sword %}) |
 |28 | Kasumi Kiri, Misty blade. It is worth nothing that the full name of Kasumi Kiri would hint that it is a skill that involves drawing the sword from the sheath. |
 |29 | The reason why Ryuunoshin says "so you are the one who saved me", is because he vaguely remembers someone saving him and calls himself Kamui of Shukudani (could be Kamui's twin brother). But when he tries to ask Kamui about it, he doesn't say a thing. |
 |32 | I don't know why Akame is called Akame, but it could be because his eyes are red (i.e. like `Akame` from `Akame ga Kiru`). |
 |32 | That's Tetsuzan (Atena's Dad). Kamui's was knocked out after fighting with a Ninja and lost. |
 |32 | The coral ring (サンゴ玉) is one of the seven treasures of Buddhism. |
-|32 | The effects of this spirited away is actually shown in previous volumes (specifically spirited away occurs at vol 3 196). Basically because Saesa kept stalking Kamui, he spirited away himself to make Saesa think he is really taken away by a bird. Though, ultimately what helped him escape the Hinin village was not this. [spoiler]({% post_url 2023-03-30-spirited-away %}) |
+|32 | The effects of this spirited away is actually shown in previous volumes (specifically spirited away occurs at vol 3 196). Basically because Saesa kept stalking Kamui, he spirited away himself to make Saesa think he is really taken away by a bird. Though, ultimately what helped him escape the Hinin village was not this. [spoiler]({{site.baseurl}}{% post_url 2023-03-30-spirited-away %}) |
 |32 | ♫ `Ally Kerr - The Sore Feet Song` |
 |34 | It is worth nothing that the Wandering Monk (Chief) probably thought that Kamui managed fake beheading. |
 |34 | Here, the garb this wandering monk is wearing, is that of Japanese Zen Buddhism. You can google "Unsui Monks" or for a similar but different but more famous type of wandering monk: "Komuso". |
@@ -53,11 +53,11 @@ You can ignore comments with ♫, but sometimes it's nice to read manga with mus
 |82 | If you want to have an idea of what the Samurai eats as described by the author's notes and how a Ryo looks like and it's worth, it is worth watching `REVENGERS` animated by `Ajia-do Animation Works` to see Raizo's meals and the depictions of Ryo as a currency (and not the plot device). Though do take the depictions of religions by that show with a pinch of salt. |
 |82 | The thing that the man is doing here is [Uchimizu](https://uchimizu.jp/en/), which is the scattering of clean water. And it also hints that the Burei-uchi (cutting down people for offending Samurai) is acceptable near Hioki castle.|
 |83 | Please really pay attention to Koheita's wife's clothes, the holes in the windows and the blanket. |
-|83 | The untranslated text at the bottom is [iroha poem]({% post_url 2023-03-30-Iroha %}).|
+|83 | The untranslated text at the bottom is [iroha poem]({{site.baseurl}}{% post_url 2023-03-30-Iroha %}).|
 |84 | Here you can observe some rules and traditions regarding the Samurai. No one else except Tachibana is on horseback. |
 |84 | ♫ `Keiichi Okabe - Wretched Weaponry` |
 |87 | It is worth nothing that Jyuubei thought that Ikkaku has already met Ryuunoshin and told him the events of volume 3. |
-|88 | Kusaka family's relationship with Daimyou [(spoilers)]({% post_url 2023-03-30-Kusaka-family %}) |
+|88 | Kusaka family's relationship with Daimyou [(spoilers)]({{site.baseurl}}{% post_url 2023-03-30-Kusaka-family %}) |
 |89 | These type of (throwing) knives is known as Kodzuka. |
 |90 | If you have ever thrown a knife or axe, you'll know how difficult it is to be able to judge the distance and put enough force to ensure that the tip sticks into the target. It's even worse for throwing swords (which uses a different throwing technique). |
 |94 | Ryuunoshin wasn't able to recognize Kamui due to his focus, but realizes immediately because Kamui has revealed his identity to Ryuunoshin whilst wearing the scarf when they first met at Tetsujin dojo. |
@@ -66,19 +66,19 @@ You can ignore comments with ♫, but sometimes it's nice to read manga with mus
 |101| Ukon has been constantly looking for Yokome to fight him again ever since Yokome defeated him and took away his leg. |
 |103| Sanpei Shirato not only drew the entire process of Inspection but also wrote at least 1000 words essay to explain it further, this is why there is no TLDR. |
 |103| Here it isn't clear why Inspection isn't doing anything to help. It could be just the Samurai choose to accept the bribe and not do anything, or it could be because the Hanamaki Village Headman has been adjusting the book slightly. |
-|103| Here there is a [village politics system]({% post_url 2023-03-30-Murakata-san-yaku %}) that is not explained. |
-|104| Shousuke only taught the kids using what limited education he has and from books. It is worth nothing that Shousuke taught them Hiragana through [iroha poem]({% post_url 2023-03-30-Iroha %}). |
+|103| Here there is a [village politics system]({{site.baseurl}}{% post_url 2023-03-30-Murakata-san-yaku %}) that is not explained. |
+|104| Shousuke only taught the kids using what limited education he has and from books. It is worth nothing that Shousuke taught them Hiragana through [iroha poem]({{site.baseurl}}{% post_url 2023-03-30-Iroha %}). |
 |105| Aside from trying to escape from Genin, I really don't know why Shousuke is trying to undermine the Headman, other than to show that the Headman is being manipulative despite appearing to be good for all. |
 |105| One interesting fact about the 'there are people who are literate too', is that in previous chapters other village did the same thing, and had a bad ending. |
 |111| The word "Difficult job" actually implies "dirty" or "sinful" |
 |111| Kamui has killed people before. But not kids and women. |
-|112| This scene does not make sense unless you read section at 132 and 198, where you learn that they have submitted a [request for revenge]({% post_url 2023-03-30-Revenge %}).|
+|112| This scene does not make sense unless you read section at 132 and 198, where you learn that they have submitted a [request for revenge]({{site.baseurl}}{% post_url 2023-03-30-Revenge %}).|
 |116| The question about why he is helping Ryuunoshin and Ikkaku is a good one. Before Kamui became a ninja, he was always just trying to beat people up and wouldn't stop until he won, so this question is asked with the expectation that you read the previous ones.. |
 |129| Ikkaku attempts to fight Kamui because he has always won every sword fight against Kamui. |
-|131| The role of a [Castle Caretaker]({% post_url 2023-03-30-Ranks %}) is given to a Karou.  |
-132| Insignificant Grudge [(spoilers)]({% post_url 2023-03-30-Kusaka-family %}) |
+|131| The role of a [Castle Caretaker]({{site.baseurl}}{% post_url 2023-03-30-Ranks %}) is given to a Karou.  |
+132| Insignificant Grudge [(spoilers)]({{site.baseurl}}{% post_url 2023-03-30-Kusaka-family %}) |
 133| Was Koheita the one who actually captured that pheasant?
-133| The reason why they are asking if they can [assist with the revenge...]({% post_url 2023-03-30-Revenge %}) |
+133| The reason why they are asking if they can [assist with the revenge...]({{site.baseurl}}{% post_url 2023-03-30-Revenge %}) |
 |134| Remember that Tachibana Guntayu is Inspector. He knows the laws of the land and how to best jump through loopholes.|
 |136| If we were to modernize this, Daimyou might actually call them terrorists. |
 |138| Ikkaku has actually met this wandering monk ("chief") before, whether he realizes this or not, I don't know since he doesn't ask the monk to identify himself. |
@@ -125,7 +125,7 @@ You can ignore comments with ♫, but sometimes it's nice to read manga with mus
 |200| I don't know what is written on the letter. |
 |201| 喰葉根(Kuwane) is such an interesting name. Read as Eat/Food Leaf Root, but pronounced the same way as "can't / don't eat". |
 |204| The sound effect here literally says that he floated to the pole, not even a thud from the shoe. |
-|217| The title of this chapter is a little more complex than just saying '[sacrificial lamb]({% post_url 2023-03-30-Sacrificial-Lamb %})', but is sufficient. |
+|217| The title of this chapter is a little more complex than just saying '[sacrificial lamb]({{site.baseurl}}{% post_url 2023-03-30-Sacrificial-Lamb %})', but is sufficient. |
 |217| ♫ `Mary Hopkin - Those Were the Days`| 
 |220| Meager life here actually is dual meaning. 1. Economically poor. 2. Very boring. |
 |228| To put into context, Akame kept trying to appeal to them that she is an adult unlike the rest and talked about how behaving so and so means you are an adult. And the girls do look up to her as a bigger sister. |
@@ -154,13 +154,13 @@ You can ignore comments with ♫, but sometimes it's nice to read manga with mus
 |304| Although 1里 was defined during Toyotomi Hideyoshi time to be 36町 which is about 3.92 km, Meiji era defines it to be a walkable distance within one hour and set it to 4km (Which I can confirm that average). The Chinese's 1里 in the late ming dynasty (early edo) is about 500 meters. |
 |304| 39 km is also a very long distance (that's about straight line distance from Singapore's Changi Airport to Tuas Link station. To give you an idea, the SAF Basic Military Training (BMT) Pass Out Parade (POP) road march is approximately 24 Km). For four people to carry Yokome on a bed over (274), much less for Kokemaru to travel whilst carrying Shousuke and just casually going over (306), makes 39 Km slightly unbelievable. |
 |304| Therefore I believe that the 1里 here is closer to the Chinese's value, which is about 500 meters. Making 10 里 become 5 km (3.1 mi). Though, I don't really know if 5 km would cause Nana's feet would bleed, but the road might be rough. |
-|311| [Guntayu]({% post_url 2023-03-30-Ranks %}). |
+|311| [Guntayu]({{site.baseurl}}{% post_url 2023-03-30-Ranks %}). |
 |317| Worth nothing that Ukon has seen someone a kid hiding on a tree wearing a headscarf and animal clothing (Kamui) who was oozing out bloodlust. But he doesn't how Kamui actually looks like.|
 |317| Remember Kuji yaku? The discussion about Inu gin? That is why Kamui went to stop the dogs from moving.|
 |317| Also, the soldiers don't recognize Kamui for some reason, even though he is the only one wearing animal skin. I will acknowledge however, that these are probably new troops that Tachibana hired to replace the ones that were fired. |
 |331| The word in Mandarin would suggest that it is a lamp. However I believe it's the oil for Eternal Fire / Eternal Light. |
 |340| In Edo period, Totteshan is a slang word for beautiful women. |
-|341| These are all [Dodoitsu]({% post_url 2023-03-30-Dodoitsu %}). |
+|341| These are all [Dodoitsu]({{site.baseurl}}{% post_url 2023-03-30-Dodoitsu %}). |
 |343| Likely blow darts. |
 |345| I believe that is water reserved for fire fighting. |
 |345| The guy is leaving the shop, perhaps even sneaking out of the shop. |
