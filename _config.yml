@@ -1,7 +1,7 @@
 # Configurations
-title:            Kamui Den P1 V4
+title: Kamui Den P1 V4
 description: >
-  Build Jekyll site with the GitBook style.
+  Kamui Den is a series of Manga is written by Sanpei Shirato with the first volume being published in 1964.
 
 version:          1.0
 gitbook_version:  3.2.3

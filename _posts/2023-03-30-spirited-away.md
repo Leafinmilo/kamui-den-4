@@ -1,6 +1,6 @@
 ---
 title: Spirited Away
-category: Spoilers Plot
+category: Plot
 layout: post
 ---
 
@@ -19,7 +19,7 @@ Kamui is the only male who somewhat treats her differently from others, although
 There's two parts about this spirited away.
 
 1. Yokome, by observing how Saesa talks and walks, he knows whether she is lying with regards matters concerning Kamui or not. 
-2. This spirited awat sends Saesa on a wild goose chase so that she doesn't return home. This would make Yokome think that Saesa is still with Kamui. 
+2. This spirited away sends Saesa on a wild goose chase so that she doesn't return home. This would make Yokome think that Saesa is still with Kamui. 
 
 ## Ultimately what helped Kamui get away
 

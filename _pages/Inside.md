@@ -26,7 +26,7 @@ You can ignore comments with ♫, but sometimes it's nice to read manga with mus
 |22 | One example of Originality, you can see Sega's Yakuza Series (`Ryuu ga Gotoku`) where characters learn Original skills through Revelations. |
 |27 | Kamui actually attempted the unpolished version of this skill once on Ikkaku. |
 |27 | Atena is able to say this because she has watched Kamui train with Ikkaku at Tetsuzan's house. |
-|28 | [Ryuunoshin's Family Sword]({{site.baseurl}}{% post_url 2023-03-30-ryuunoshin-sword %}) |
+|28 | [Ryuunoshin's Family Sword]({{site.baseurl}}{% post_url 2023-03-30-Ryuunoshin-sword %}) |
 |28 | Kasumi Kiri, Misty blade. It is worth nothing that the full name of Kasumi Kiri would hint that it is a skill that involves drawing the sword from the sheath. |
 |29 | The reason why Ryuunoshin says "so you are the one who saved me", is because he vaguely remembers someone saving him and calls himself Kamui of Shukudani (could be Kamui's twin brother). But when he tries to ask Kamui about it, he doesn't say a thing. |
 |32 | I don't know why Akame is called Akame, but it could be because his eyes are red (i.e. like `Akame` from `Akame ga Kiru`). |

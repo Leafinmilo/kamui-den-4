@@ -1,6 +1,6 @@
 ---
 title: Ryuunoshin's family sword
-category: Plot
+category: Investigation
 layout: post
 ---
 
