@@ -50,11 +50,11 @@ As a side note, I feel is slightly problematic to classify Japanese swords as "s
 
 Because the modern Katana's blade length is approximately 2 Shaku in length, and if we say 大 is "long" then it makes a Katana a "long" sword. However, the word "long" in the English word sense invokes the idea that the Katana is on the same wavelength as a "One-and-a-half" sword or even a Zweihander, despite the Katana having a blade length roughly the same or has even shorter than an "arming" sword.
 
-![Zweihander by Tod Cutler](/assets/images/Scholagladitoria-Zweihander.png)
+![Zweihander by Tod Cutler]({{site.baseurl}}/assets/images/Scholagladitoria-Zweihander.png)
 
 (Zweihander recreated by Tod Cutler. Approx 1.8 meter in total length. Image Source: [Scholagladitoria](https://www.youtube.com/watch?v=05-WdeZ79WY))
 
-![Comparing blade lengths](/assets/images/Shadversity-sword-length-comparison.png)
+![Comparing blade lengths]({{site.baseurl}}/assets/images/Shadversity-sword-length-comparison.png)
 
 (Comparing a Japanese sword with a long sword when held near the sword guard. Notice long sword has a longer blade length. Image Source: [Shadversity](https://www.youtube.com/watch?v=Wgb2HNrTnR0))
 
