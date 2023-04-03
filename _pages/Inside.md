@@ -1,6 +1,7 @@
 ---
 title: Inside the book
-category: Book Comments
+date: 2023-03-30
+category: Comments
 layout: post
 ---
 

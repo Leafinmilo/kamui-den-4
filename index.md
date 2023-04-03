@@ -1,6 +1,6 @@
 ---
 title: Kamui-Den Part 1 Volume 4
-layout: home
+layout: post
 ---
 # About
 Kamui Den is a series of Manga is written by Sanpei Shirato with the first volume being published in 1964.
@@ -20,8 +20,8 @@ Please do not use what is written here to quote as evidence for academic studies
 
 # Where to view commentary:
 
-* [Inside]({% link _pages/Inside.md %})
-* [Outside]({% link _pages/Outside.md %})
+* [Inside]({{site.baseurl}}{% link _pages/Inside.md %})
+* [Outside]({{site.baseurl}}{% link _pages/Outside.md %})
 
 # Credits
 This site's theme is [jekyll-gitbook](https://github.com/sighingnow/jekyll-gitbook)

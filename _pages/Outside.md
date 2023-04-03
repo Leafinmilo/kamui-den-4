@@ -1,16 +1,13 @@
 ---
 title: Outside the book
-date: 2023-03-31
-category: Book Comments
+date: 2023-03-30
+category: Comments
 layout: post
 ---
 # What is this section about
 This are comments about the book that I think is worth mentioning, but is not directly related to volume 4.
 
 There may be spoilers.
-
-Though if you have clicked here accidentally, here is the link to view [Inside]({% link _pages/Inside.md %}).
-
 Please do not use what is written here to quote as evidence for academic studies.
 
 # Contents
