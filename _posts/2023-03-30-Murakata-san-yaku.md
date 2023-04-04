@@ -62,4 +62,10 @@ Group of five is not an elected position, but just grouping Peasants together. T
 
 However, I would imagine that if the group purely contained farmers who is poor, then for sure they would not be able to raise enough money.
 
-So I assume that the group may contain a mixed combination of poor and rich.
+So I assume that the group may contain a mixed combination of poor and rich, just to ensure the the group will last (poor + rich + medium people = if no reach KPI, the rich pay more. )
+
+# Notes
+
+1. Is group head higher rank than representative? I don't know.
+2. This is applicable for villages and not towns (perhaps even applicable to farming villages only)
+3. Sure, you can say that what is below Peasant Representative is True Peasants (本百姓), but generally they are grouped in fives.
