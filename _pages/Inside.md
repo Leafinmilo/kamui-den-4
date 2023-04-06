@@ -64,6 +64,7 @@ You can ignore comments with ♫, but sometimes it's nice to read manga with mus
 |95 | Yokome (who is not a ninja) also used caltrops in volume 3. |
 |95 | Despite training Kamui, Ikkaku doesn't realize who the hooded person is until 97. But of course, he was busy fighting and dodging. |
 |101| Ukon has been constantly looking for Yokome to fight him again ever since Yokome defeated him and took away his leg. |
+|101| Oyaji-sama is such an interesting term. In English, it is just "Boss", but it misses the intent that "Oyaji-sama" here is more like a father like figure. Especially when Kigisu returns to addressing Yokome in a more formal manner in 196 |
 |103| Sanpei Shirato not only drew the entire process of Inspection but also wrote at least 1000 words essay to explain it further, this is why there is no TLDR. |
 |103| Here it isn't clear why Inspection isn't doing anything to help. It could be just the Samurai choose to accept the bribe and not do anything, or it could be because the Hanamaki Village Headman has been adjusting the book slightly. |
 |103| Here there is a [village politics system]({{site.baseurl}}{% post_url 2023-03-30-Murakata-san-yaku %}) that is not explained. |
@@ -110,14 +111,17 @@ You can ignore comments with ♫, but sometimes it's nice to read manga with mus
 |164| 82 is really to serve contrast to the bucket thrown here. |
 |170| 不仅要甘心勉强自己，还要勉强自己甘心 |
 |171| ♫ `Joan Baez - Donna, Donna`|
+|178| Note the implication here is they really do eat the fecal matter. Unlike Bear Grylls who drank elephant dung. |
 |180| Grace is difficult to explain here. Would be better to watch `Ascendance of a Bookworm` Season 1 EP 17 after `Lutz` lashes out at `Gil`. `Flan` explains what `Grace` means in their context, but is also applicable here.  |
-|181| I can't help but to feel that Kokemaru's "I have a dream" part was inspired by the words of `Martin Luther King Jr.` "every valley shall be exalted and every hill made low". |
+|181| I can't help but to feel that Kokemaru's "I have a dream" part was inspired by the words of `Martin Luther King Jr.` which is "every valley shall be exalted and every hill made low". (which is quoted from Isaiah 40:4 KJV) |
 |186| It is worth noting that this is not the first time Ryuunoshin has seen Omine's skull. The first time would be V2 P64. |
+|186| This scene is interesting because the English language is limited by 'like' and 'love' wheras Japanese language has more ways to express the level. |
 |187| Literally `駆逐してやる この世から 一匹残らず` (i.e. That Eren Jaeger line).|
 |188| Trope: Lightning flashing behind the enemy . |
 |190| The chief headman (or so I call him) actually is warning them so that they don't get arrested. |
 |191| Shousuke learnt how to read and write at Chikumazawa Village Headman's house when Ijuin visited. Shousuke happened to be there because he was delivering a letter from Hanamaki Village Headman. |
 |193| While it is not possible to say that Ryuunoshin talking about the domino effect, or a tower of cards collapsing on itself. But it is clear that his words was in response to looking at Koroku. The last time he saw Koroku was when he was sane and Omine was still alive. |
+|194| For example of how ploughing works, you can see `Vinland Saga season 2` (all events before episode 10). But if you have to choose 1 episode, episode 6 would cover fallowing and ploughing with horses|
 |195| Village Headman is really sly, making him accept an offer before saying that oh "I forgot to mention". |
 |195| Just a reminder, the Headman gave his ledger to the Peasants, so he takes Shousuke's copy of that ledger. |
 |196| Japanese language doesn't differentiate between copy and copies, it would make sense for the Village Headman to suspect that he made copies, but I don't know where Shousuke would get the paper from. |
@@ -125,20 +129,28 @@ You can ignore comments with ♫, but sometimes it's nice to read manga with mus
 |200| I don't know what is written on the letter. |
 |201| 喰葉根(Kuwane) is such an interesting name. Read as Eat/Food Leaf Root, but pronounced the same way as "can't / don't eat". |
 |204| The sound effect here literally says that he floated to the pole, not even a thud from the shoe. |
+|208| What I find interesting is, that though Kamui is a Genin (low ranking ninja), it is not really a Ninja until he can complete this mission. |
 |217| The title of this chapter is a little more complex than just saying '[sacrificial lamb]({{site.baseurl}}{% post_url 2023-03-30-Sacrificial-Lamb %})', but is sufficient. |
 |217| ♫ `Mary Hopkin - Those Were the Days`| 
 |220| Meager life here actually is dual meaning. 1. Economically poor. 2. Very boring. |
-|228| To put into context, Akame kept trying to appeal to them that she is an adult unlike the rest and talked about how behaving so and so means you are an adult. And the girls do look up to her as a bigger sister. |
+|228| To put into context, Akame kept trying to appeal to them that she is an adult unlike the rest, and talked about how behaving in a such and so manner means you are an adult. And the girls do look up to her as a bigger sister. |
 |228| Akame is somewhat interested in Shousuke because he is the only one who is doing something interesting and is the boy who does not look at her with lustful eyes, despite intentionally appearing naked before him. |
+|229| This isn't the first time Gon grabs her like that. |
+|229| None of the three girls has been in indentured service yet |
 |231| "I won't be able to face my ancestors" is an interesting contrast for 159. |
+|233| 我们永远支持你. |
+|243| Whatever happened to walking with Busuke through hellfire? |
+|244| Incase you are wondering, yes, Akame and Busuke knows how to read (I don't know if Akame knows how to write, but in 238 Busuke knows how to write). It is illegal for normal commoner to know how to write, and Busuke was suddenly elected to be a Peasant Representative. It is likely he probably learnt it illegally. |
 |250| Sometimes I really find the lack of onomatopoeia in the English language to be slightly annoying. |
 |250| Look at how the Samurai measure rice. They intentionally waste the rice by dropping it onto the floor so that the Peasants present less tax than what was actually brought over. |
 |270| KATAME practicality raised KAMUI by providing food, hunting in pairs and journeying together. |
-|274| I believe the footprints belong to the individual in 278. |
-|274| The statement uttered by Shousuke in 304 is somewhat problematic. |
+|274| The footprints may belong to the individual in 278. But it looks closer to a staggering deer prints given how close they are. |
+|274| The statement uttered by Shousuke in 304 is makes this scene interesting. |
 |275| Note the existing pots and food storage. This means that people do come here pretty often and probably shared some resources here. |
+|276| Slightly worth noting is that, if you don't know that Ninjas exists, the words "True Identity" might sound like maybe the person has a special secret identity such as a son of some high ranking Samurai, especially since Yokome says "impossible for me to catch him even if I could locate him". |
 |277| Yokome is very careful when it comes to the topic of Ninja because they threatened to kill him if he talked to others about them. |
 |278| No that individual is not Akame. It's probably a character from Volume 2 (to not spoil you, not gonna mention the name). I'm more surprised that Saesa doesn't recognize him, but maybe his voice changed due to puberty or something. |
+|278| Yes, if it is the individual from volume 2, then the person knows that the two of them are not peasants.|
 |279| Food was washed away. |
 |280| [Indentured Service]({ % post_url 2023-03-30-Genin % }). |
 |282| I can't tell if Sanpei Shirato intended the headman to say that out loud. |
@@ -147,17 +159,22 @@ You can ignore comments with ♫, but sometimes it's nice to read manga with mus
 |286| You can see [Primitive Technology: Reusable charcoal mound](https://www.youtube.com/watch?v=SjK2XlNE39Q) for an idea how this could look like. |
 |289| For an example of a complete novice doing blacksmithing, see [Tom Scott learning blacksmithing from Alec Steele](https://www.youtube.com/watch?v=e2HUg144liM) .|
 |290| I don't know who would be interested in this information, but he uses the word Hagane rather than Tamahagane. |
-|291| For example of how ploughing works, you can see `Vinland Saga season 2` (all events before episode 10)|
 |298| By "horrible", he is saying: Shousuke's friend (Kokemaru) isn't just loud, scary and very strong, but is also a Hinin. |
 |299| The Batman slap. |
 |301| I find it hard that Kokemaru will leave Shousuke here alone without food. So I guesstimate based off what Yokome told the people, Kokemaru would return within a week or so. |
-|304| Although 1里 was defined during Toyotomi Hideyoshi time to be 36町 which is about 3.92 km, Meiji era defines it to be a walkable distance within one hour and set it to 4km (Which I can confirm that average). The Chinese's 1里 in the late ming dynasty (early edo) is about 500 meters. |
-|304| 39 km is also a very long distance (that's about straight line distance from Singapore's Changi Airport to Tuas Link station. To give you an idea, the SAF Basic Military Training (BMT) Pass Out Parade (POP) road march is approximately 24 Km). For four people to carry Yokome on a bed over (274), much less for Kokemaru to travel whilst carrying Shousuke and just casually going over (306), makes 39 Km slightly unbelievable. |
-|304| Therefore I believe that the 1里 here is closer to the Chinese's value, which is about 500 meters. Making 10 里 become 5 km (3.1 mi). Though, I don't really know if 5 km would cause Nana's feet would bleed, but the road might be rough. |
+|303| It's quite interesting that Nana, despite Shosuke being around her so many times, assumes that her status as a Hinin is what causes him to go away. Maybe it is just a reflexive thought on her end, or thinking that he only acts nice infront of a big group. |
+|304| Although 1里 was defined during Toyotomi Hideyoshi time to be 36町 which is about 3.92 km (2.4 mi), Meiji era defines it to be a walkable distance within one hour and set it to 4 km (Which I can confirm that average). The Chinese's 1里 in the late ming dynasty (early edo) is about 500 meters. |
+|304| 39 km or a 10 hour walk is also a very long distance (that's about straight line distance from Singapore's Changi Airport to Tuas Link station. To give you an idea, the SAF Basic Military Training (BMT) Pass Out Parade (POP) road march is approximately 24 km). For four people to carry Yokome on a bed over (274), much less for Kokemaru to travel whilst carrying Shousuke and just casually going over (306), makes 39 km slightly unbelievable. |
+|304| Therefore I believe that the 1里 here is closer to the Chinese's value, which is about 500 meters. Making 10 里 become about 5 km (3.1 mi). Though, I don't really know if 5 km would cause Nana's feet would bleed, but the road might be rough. |
+|304| 39 km makes sense if you consider Hioki castle to be in Oosaka instead of Nagoya. |
+|308| One of the reasons why Shousuke considers himself to be horrible, is that: 1. He loves Omine, but doesn't look at her in a lewd light. 2. Akemi intentionally appears naked infront of Shousuke to tempt him, to which he replies, "I love Omine. But not because of how she looks, but her personality.". 3. He has finally hit puberty. |
+|308| Shousuke kept saying he is a horrible person, but I cannot tell if Nana is trying to say "sometimes I dream of those kinds of dreams too" or "I think I am a horrible person too". |
+|308| By the way, Kokemaru somewhat knew that Nana and Shousuke were in love, but was never able to confirm it because the two of them didn't know the feelings were mutual (More like Shousuke didn't know he was in love with Nana). And now that he is able to confirm it, it left him a little heartbroken (because I think he is in love with Nana too). |
 |311| [Guntayu]({{site.baseurl}}{% post_url 2023-03-30-Ranks %}). |
 |317| Worth nothing that Ukon has seen someone a kid hiding on a tree wearing a headscarf and animal clothing (Kamui) who was oozing out bloodlust. But he doesn't how Kamui actually looks like.|
 |317| Remember Kuji yaku? The discussion about Inu gin? That is why Kamui went to stop the dogs from moving.|
 |317| Also, the soldiers don't recognize Kamui for some reason, even though he is the only one wearing animal skin. I will acknowledge however, that these are probably new troops that Tachibana hired to replace the ones that were fired. |
+|319| 根性 is such an interesting word. It can mean personality, nature or willpower. Here I don't believe he is saying Kamui has such shrewed personality, but rather, Kamui is a "twisted existence" because he is a Hinin. |
 |331| The word in Mandarin would suggest that it is a lamp. However I believe it's the oil for Eternal Fire / Eternal Light. |
 |340| In Edo period, Totteshan is a slang word for beautiful women. |
 |341| These are all [Dodoitsu]({{site.baseurl}}{% post_url 2023-03-30-Dodoitsu %}). |
@@ -168,6 +185,7 @@ You can ignore comments with ♫, but sometimes it's nice to read manga with mus
 |349| See Ofuku Okame. |
 |352| A vagrant in Edo period are people who are not included within the normal population census and family register. this means they don't account for tax. They don't have fixed residences nor a fixed job. Some vagrants would end up becoming Hinin. |
 |352| Crossing the [border](https://www.hakonesekisyo.jp/db/data_inc/inc_frame/fr_data_01_01.html). |
+|352| While crossing a border checkpoint required a pass and people did attempt to cross the border, it is someone implied that the woman was tortured to unwillingly confess that she illegally crossed the border. Checkpoints were set up to defend Edo, so illegally crossing the border can spell death. |
 |353| The issue of being not associated with a family (i.e. Vagrant) issue was pretty rampant in Edo period that the government had to step in. |
 |354| In some places in Japan, during the Edo period, [Tattoo](http://www.edojidai.info/kurashi/zaininn-irezumi.html) was used to mark that someone has been to prison before. For example, you can draw on the person progressing from 一 ナ 大 to 犬 to show that he has been in prison multiple times. But it is more likely lines drawn on the arm. |
 |354| The best way to identify who Akame is, is to observe the clothes, not his eyes. Slightly non-consistent but, he is the only one wearing white with a crosshatching pattern at the top. |

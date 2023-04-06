@@ -14,6 +14,15 @@ This is interesting because to my knowledge there is no Japanese weapon of that 
 
 In Edo period, 長刀 can refer to Naginata. However, it is likely not pronounced as Naginata (Furigana wasn't given) because the sequence of events literally showed Atena with a Naginata. And Sanpei Shirato uses Hiragana to address Atena's weapon.
 
+## Some facts about Ryuunoshin's sword:
+
+1. Kamui could draw it from his back when he was much younger.
+2. It doesn't look like there is provision to slot in a Kodzuka (not all swords had this slot anyway).
+3. It has a squareish Tsuba. Though to be fair, it is not that uncommon for the swords in Kamui-den to be drawn with squareish Tsuba.
+4. The Tsuba is well decorated, and has the words Kusaka.
+5. The pinning (Mekugi) isn't on the 2nd or 4th position. Though to be fair, no close up shots of swords drawn in all the volumes had their Mekugi drawn. 
+6. Handle length is long. Though to be fair, it is not that uncommon for the swords in Kamui-den to have long handles (i.e. longer than you would expect a modern katana to have). 
+
 ## Is it a Japanese Blade?
 ### What is 刀?
 It is important to note that the 刀 means "blade" in the Japanese language, specifically a single edged blade. Linguistically, it doesn't refer to any particular sword and it can also refer to knives.

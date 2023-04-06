@@ -58,11 +58,24 @@ Primary Job scope:
 2. Ensure that the group is able to pay up the tax
     * This can involve helping them with their fields if they fall sick
 
-Group of five is not an elected position, but just grouping Peasants together. This could be done by selecting those who are of close proximity.
+Group of five is not an elected position, but just grouping Peasants together. This could be done by selecting those whose farms are of close proximity (And they might not even be family extended members).
 
 However, I would imagine that if the group purely contained farmers who is poor, then for sure they would not be able to raise enough money.
 
 So I assume that the group may contain a mixed combination of poor and rich, just to ensure the the group will last (poor + rich + medium people = if no reach KPI, the rich pay more. )
+
+As far as snitching goes:
+
+Remember that Christianity is banned during the Edo period.
+
+If there is someone in another group whom you really hated, you could report to the authorities that this group is doing illegal matters such as planning to revolt against Daimyo or even protecting someone who is a Christian. 
+
+Even if it the person denied committing these offenses, he might be tortured until "proof" arrives or he confesses to any crime. 
+Or, even after torturing, he is let go, the amount of time wasted from the torture and recovering from it could cause the crops to not be able to grown in time. 
+
+Even if you don't do that to the entire group, one person suffering from this would cause the other group to do the effort.
+
+Also the group of five is a good way to prevent the observance of the Pareto Principle in terms of workload.
 
 # Notes
 
